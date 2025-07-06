@@ -1,0 +1,201 @@
+﻿Ranking,Name,URL,Rating,Price Range,Review Count,Nearest Station,Categories,Address,Reservation Only,Latitude,Longitude
+1,Shimbashi Hoshino,https://tabelog.com/en/tokyo/A1314/A131401/13136847/,4.65,50000-59999,275,Onarimon Sta.,Japanese Cuisine,東京都港区新橋5-31-3,True,35.6624582,139.7553081
+2,Nihonbashi Kakigaracho Sugita,https://tabelog.com/en/tokyo/A1302/A130204/13018162/,4.64,40000-49999,897,Suitengumae Sta.,Sushi,東京都中央区日本橋蛎殻町1-33-6 ビューハイツ日本橋 B1F,True,35.6818515,139.7849984
+3,aca,https://tabelog.com/en/tokyo/A1302/A130202/13249117/,4.63,60000-79999,523,Mitsukoshimae Sta.,Spain,東京都中央区日本橋室町2-1-1 三井2号館,True,35.6868636,139.7724807
+4,Higashiazabu Amamoto,https://tabelog.com/en/tokyo/A1314/A131401/13196420/,4.62,60000-79999,572,Akabanebashi Sta.,Sushi,東京都港区東麻布1-7-9 ザ・ソノビル 102,True,35.6573486,139.7434681
+5,Matsukawa,https://tabelog.com/en/tokyo/A1307/A130701/13124391/,4.61,80000-99999,509,Roppongi Itchome Sta.,Japanese Cuisine,東京都港区赤坂1-11-6 赤坂テラスハウス １階,True,35.6674621,139.7423903
+6,Sushi Saitou,https://tabelog.com/en/tokyo/A1308/A130802/13015251/,4.6,50000-59999,1236,Roppongi Itchome Sta.,Sushi,東京都港区六本木1-4-5 アークヒルズサウスタワー 1Ｆ,True,35.6656056,139.7394165
+7,Sushi Arai,https://tabelog.com/en/tokyo/A1301/A130101/13188186/,4.59,50000-59999,898,Higashi Ginza Sta.,Sushi,東京都中央区銀座8-10-2 ルアンビル B1F 2F,False,35.6680421,139.7627122
+8,PELLEGRINO,https://tabelog.com/en/tokyo/A1303/A130302/13072775/,4.59,100000-,310,Hiro o Sta.,Italian,東京都渋谷区恵比寿2-3-4,True,35.648029,139.7184741
+9,Ginza Shinohara,https://tabelog.com/en/tokyo/A1301/A130101/13200949/,4.56,40000-49999,1209,Ginza Itchome Sta.,Japanese Cuisine,東京都中央区銀座2-8-17 ハビウル銀座2 B1,True,35.673039,139.7678421
+10,Ao,https://tabelog.com/en/tokyo/A1307/A130701/13243463/,4.56,50000-59999,472,Roppongi Sta.,Innovative,東京都港区西麻布3-21-3 オリンピアード麻布霞坂 2F,True,35.6598526,139.7251681
+11,Sazenka,https://tabelog.com/en/tokyo/A1307/A130703/13205298/,4.55,50000-59999,767,Hiro o Sta.,Chinese,東京都港区南麻布4-7-5,False,35.6495836,139.7283406
+12,Sawada,https://tabelog.com/en/tokyo/A1301/A130101/13001043/,4.55,50000-59999,555,Ginza Sta.,Sushi,東京都中央区銀座5-9-19 ＭＣビル3Ｆ,True,35.6704606,139.7652779
+13,Mitani,https://tabelog.com/en/tokyo/A1309/A130902/13042204/,4.54,50000-59999,315,Yotsuya Sta.,Sushi,東京都新宿区四谷1-22-1,True,35.6875649,139.7278518
+14,Takiya,https://tabelog.com/en/tokyo/A1307/A130702/13185763/,4.53,40000-49999,361,Azabu Juban Sta.,Tempura,東京都港区麻布十番2-8-6 ラベイユ麻布十番 2F,True,35.6555619,139.7346056
+15,Quintessence,https://tabelog.com/en/tokyo/A1314/A131405/13159567/,4.52,30000-39999,1721,Kitashinagawa Sta.,French,東京都品川区北品川6-7-29 ガーデンシティ品川 御殿山 1F,False,35.6239862,139.7333701
+16,Sushi Nanba Hibiya,https://tabelog.com/en/tokyo/A1301/A130102/13219857/,4.52,50000-59999,878,Hibiya Sta.,Sushi,東京都千代田区有楽町1-1-2 東京ミッドタウン日比谷 3F,True,35.6737436,139.7591762
+17,Kasahara,https://tabelog.com/en/tokyo/A1309/A130905/13266251/,4.52,20000-29999,424,Kagurazaka Sta.,Yakitori (Grilled chicken skewers),東京都新宿区東五軒町5-5 2F,True,35.7063525,139.7397557
+18,Akasaka Raimon,https://tabelog.com/en/tokyo/A1308/A130801/13224635/,4.51,15000-19999,485,Akasaka Mitsuke Sta.,Yakiniku (BBQ Beef),東京都港区赤坂3-9-12 メトロビル 4F,True,35.6768672,139.7362432
+19,Shimazu,https://tabelog.com/en/tokyo/A1316/A131602/13252991/,4.5,40000-49999,468,Shirokane Takanawa Sta.,Sushi,東京都港区白金1-29-13 白金ヴィレッジ 1F,True,35.643222,139.7336488
+20,Sushi Takamitsu,https://tabelog.com/en/tokyo/A1317/A131701/13128483/,4.49,50000-59999,645,Naka Meguro Sta.,Sushi,東京都目黒区青葉台1-28-2 EXA 1F,False,35.6474043,139.6951547
+21,Trace,https://tabelog.com/en/tokyo/A1307/A130703/13246316/,4.49,40000-49999,234,,Innovative,東京都港区,True,35.65808130000001,139.7515077
+22,SUGALABO,https://tabelog.com/en/tokyo/A1307/A130704/13182678/,4.48,50000-59999,746,Kamiyacho Sta.,Innovative,東京都港区麻布台1-11-10 日総ビル1F,False,35.6610343,139.7437607
+23,Tori Shiki,https://tabelog.com/en/tokyo/A1316/A131601/13041029/,4.47,6000-7999,1287,Meguro Sta.,Yakitori (Grilled chicken skewers),東京都品川区上大崎2-14-12,False,35.6342653,139.7169019
+24,Gourmandise,https://tabelog.com/en/tokyo/A1307/A130701/13190448/,4.47,30000-39999,351,Hiro o Sta.,Bistro,東京都港区西麻布3丁目17-23 プティコワン西麻布2F,True,35.6580758,139.7239833
+25,L'Effervescence,https://tabelog.com/en/tokyo/A1306/A130602/13116356/,4.46,50000-59999,1583,Omote Sando Sta.,French,東京都港区西麻布2-26-4,False,35.6602169,139.7194309
+26,Suetomi,https://tabelog.com/en/tokyo/A1303/A130301/13259485/,4.46,50000-59999,150,,Japanese Cuisine,東京都渋谷区,True,35.6619707,139.703795
+27,L'OSIER,https://tabelog.com/en/tokyo/A1301/A130101/13002607/,4.45,40000-49999,1404,Ginza Sta.,French,東京都中央区銀座7-5-5,True,35.6698913,139.7617874
+28,Nikuya Tanaka,https://tabelog.com/en/tokyo/A1301/A130101/13237628/,4.45,60000-79999,365,Ginza Sta.,Beef dishes,東京都中央区銀座6-4-3 GICROS GINZA GEMS 9F,False,35.6715901,139.7619561
+29,Yamasaki,https://tabelog.com/en/tokyo/A1307/A130701/13225691/,4.44,60000-79999,444,Nogizaka Sta.,Japanese Cuisine,東京都港区西麻布1-15-3 西麻布UOUビル 1F,False,35.6617996,139.7232725
+30,Sushi Sho,https://tabelog.com/en/tokyo/A1309/A130902/13000852/,4.43,40000-49999,1065,Yotsuya Sta.,Sushi,東京都新宿区四谷1-11 陽臨堂ビル　１Ｆ,False,35.6856077,139.7282908
+31,TACUBO,https://tabelog.com/en/tokyo/A1303/A130303/13109940/,4.43,40000-49999,956,Daikan yama Sta.,Italian,東京都渋谷区恵比寿西2-13-16 ラングス代官山 1F,True,35.6508458,139.7060166
+32,Japanese cuisine Seizan,https://tabelog.com/en/tokyo/A1314/A131402/13127807/,4.42,40000-49999,1046,Tamachi Sta.,Japanese Cuisine,東京都港区三田2-17-29 グランデ三田 B1F,True,35.6474922,139.739948
+33,Kimoto,https://tabelog.com/en/tokyo/A1309/A130905/13226856/,4.42,80000-99999,421,Kagurazaka Sta.,Japanese Cuisine,東京都新宿区東五軒町5-5,True,35.7063525,139.7397557
+34,Makimura,https://tabelog.com/en/tokyo/A1315/A131502/13003338/,4.42,30000-39999,357,Omorikaigan Sta.,Japanese Cuisine,東京都品川区南大井3-11-5 MAKIMURA BLD 1F,False,35.5908393,139.7354263
+35,Ginza Ooishi,https://tabelog.com/en/tokyo/A1301/A130101/13238352/,4.41,40000-49999,727,Ginza Itchome Sta.,French,東京都中央区銀座2-10-11 マロニエ通り銀座館 2F,True,35.6720816,139.7682929
+36,SEZANNE,https://tabelog.com/en/tokyo/A1302/A130201/13256878/,4.41,60000-79999,419,Kyobashi Sta.,French,東京都千代田区丸の内1-11-1 パシフィックセンチュリープレイス,False,35.6779865,139.7669297
+37,Hasegawa Minoru,https://tabelog.com/en/tokyo/A1307/A130703/13220575/,4.41,50000-59999,254,Hiro o Sta.,Innovative,東京都港区南麻布4-5-66,True,35.6511293,139.7237414
+38,ete,https://tabelog.com/en/tokyo/A1318/A131811/13249143/,4.41,100000-,119,Yoyogi Uehara Sta.,Innovative,東京都渋谷区西原3-23-1,True,35.6706199,139.6834603
+39,Gastronomy Joel Robuchon,https://tabelog.com/en/tokyo/A1303/A130302/13009310/,4.4,100000-,1938,Ebisu Sta.,French,東京都目黒区三田1-13-1 恵比寿ガーデンプレイス,False,35.6419011,139.7145339
+40,Kabuto,https://tabelog.com/en/tokyo/A1305/A130501/13016660/,4.4,15000-19999,1219,Ikebukuro Sta.,Unagi (Eel),東京都豊島区池袋2-53-2 池袋ESビル 1F,True,35.7337706,139.7090115
+41,Kagurazaka Ishikawa,https://tabelog.com/en/tokyo/A1309/A130905/13004079/,4.4,50000-59999,647,Ushigome Kagurazaka Sta.,Japanese Cuisine,東京都新宿区神楽坂5-37 高村ビル　１Ｆ,False,35.70124089999999,139.7394364
+42,Sushi Hashimoto,https://tabelog.com/en/tokyo/A1313/A131301/13238306/,4.39,30000-39999,584,Shintomicho Sta.,Sushi,東京都中央区新富1-8-2 grandir ginza east 1F,True,35.6729143,139.7744821
+43,Sushi Akira,https://tabelog.com/en/tokyo/A1303/A130302/13241432/,4.39,40000-49999,336,Hiro o Sta.,Sushi,東京都渋谷区恵比寿2-37-8 グランデュオ広尾 1F,False,35.6452662,139.7222179
+44,Chez Inno,https://tabelog.com/en/tokyo/A1302/A130202/13000510/,4.38,30000-39999,985,Kyobashi Sta.,French,東京都中央区京橋2-4-16 明治京橋ビル1F,False,35.6770691,139.7692033
+45,Maki Tori Shin Kobe,https://tabelog.com/en/tokyo/A1308/A130801/13291292/,4.38,20000-29999,487,Akasaka Mitsuke Sta.,Yakitori (Grilled chicken skewers),東京都港区赤坂3-9-2 No.R赤坂見附 1F,True,35.6772902,139.7362154
+46,Akasaka Ogino,https://tabelog.com/en/tokyo/A1308/A130801/13245499/,4.38,40000-49999,329,Akasaka Sta.,Japanese Cuisine,東京都港区赤坂6-3-13,True,35.6708882,139.7352853
+47,Mitaka,https://tabelog.com/en/tokyo/A1301/A130103/13228116/,4.38,50000-59999,208,Uchisaiwaicho Sta.,Japanese Cuisine,東京都港区西新橋1-18-8 報徳ビル 1F,True,35.6675596,139.753299
+48,NK,https://tabelog.com/en/tokyo/A1309/A130905/13249655/,4.36,40000-49999,279,Ushigome Kagurazaka Sta.,Japanese Cuisine,東京都新宿区神楽坂5-37 相良ビル 1F,False,35.7013408,139.7391271
+49,CHIUnE,https://tabelog.com/en/tokyo/A1308/A130801/13295095/,4.36,80000-99999,135,Nagatacho Sta.,Innovative,東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 達磨テラス 3F,False,35.6793415,139.7371812
+50,NARISAWA,https://tabelog.com/en/tokyo/A1306/A130603/13005423/,4.35,80000-99999,721,Aoyama Itchome Sta.,Innovative,東京都港区南青山2-6-15,True,35.6715648,139.7218885
+51,Sanwa,https://tabelog.com/en/tokyo/A1316/A131602/13264755/,4.35,20000-29999,357,Shirokanedai Sta.,Italian,東京都港区白金台5-13-14 白金台THE1000 Ｂ1F,False,35.6377436,139.7227802
+52,Furuta,https://tabelog.com/en/tokyo/A1313/A131301/13176780/,4.35,100000-,315,Shintomicho Sta.,Chinese,東京都中央区銀座1-21-14,True,35.6725118,139.7707091
+53,Iyuki,https://tabelog.com/en/tokyo/A1301/A130101/13030881/,4.35,60000-79999,232,,Japanese Cuisine,東京都中央区,True,35.6706392,139.7719892
+54,ESqUISSE,https://tabelog.com/en/tokyo/A1301/A130101/13142530/,4.34,30000-39999,1061,Ginza Sta.,French,東京都中央区銀座5-4-6 ロイヤルクリスタル銀座 9Ｆ,False,35.6717161,139.7633311
+55,Nihonbashi Sonoji,https://tabelog.com/en/tokyo/A1302/A130204/13201969/,4.34,30000-39999,438,Ningyocho Sta.,Tempura,東京都中央区日本橋人形町2-22-11 井上ビル 1F,False,35.6862565,139.784509
+56,Myoujyaku,https://tabelog.com/en/tokyo/A1307/A130701/13270958/,4.34,50000-59999,209,Roppongi Sta.,Japanese Cuisine,東京都港区西麻布3-2-34 西麻布ヒルズ B1F,True,35.6594393,139.7267062
+57,Toshi,https://tabelog.com/en/tokyo/A1307/A130701/13225413/,4.33,50000-59999,445,Roppongi Sta.,Chinese,東京都港区六本木4-4-2 ヒルサイドパレス六本木 B1F,True,35.6652188,139.7324833
+58,OHKUSA,https://tabelog.com/en/tokyo/A1309/A130903/13240980/,4.33,15000-19999,415,Yotsuya Sanchome Sta.,Yakitori (Grilled chicken skewers),東京都新宿区荒木町7-13 森戸ビル 1Ｆ,False,35.6891044,139.7222649
+59,Ginza Kitagawa,https://tabelog.com/en/tokyo/A1301/A130101/13275790/,4.33,30000-39999,327,Ginza Itchome Sta.,Japanese Cuisine,東京都中央区銀座2-10-11 マロニエ通り銀座館 3F,True,35.6720816,139.7682929
+60,Sushi Ryujiro,https://tabelog.com/en/tokyo/A1306/A130603/13240787/,4.32,30000-39999,796,Gaiemmae Sta.,Sushi,東京都港区南青山2-11-11 ARISTO南青山 1F,False,35.6712475,139.7209746
+61,Ebisu Yoroniku,https://tabelog.com/en/tokyo/A1303/A130302/13211927/,4.31,10000-14999,1694,Ebisu Sta.,Yakiniku (BBQ Beef),東京都渋谷区恵比寿1-11-5 GEMS恵比寿 8F,False,35.6463405,139.7117909
+62,APICIUS,https://tabelog.com/en/tokyo/A1301/A130102/13000145/,4.31,50000-59999,1100,Hibiya Sta.,French,東京都千代田区有楽町1-9-4 蚕糸会館　Ｂ１Ｆ,False,35.6751122,139.7609752
+63,Kusunoki Hon Ten,https://tabelog.com/en/tokyo/A1309/A130902/13223239/,4.31,100000-,317,Yotsuya Sta.,Tempura,東京都新宿区四谷1-9-4,True,35.6860739,139.7279873
+64,Chiba Takaoka,https://tabelog.com/en/tokyo/A1302/A130201/13282854/,4.31,30000-39999,169,Tokyo Sta.,Sushi,東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 3F,True,35.6794084,139.7689311
+65,Yakiniku Jumbo Hanare,https://tabelog.com/en/tokyo/A1310/A131004/13160962/,4.3,15000-19999,1387,Hongo Sanchome Sta.,Yakiniku (BBQ Beef),東京都文京区本郷3-27-9 アンリツビル B1F～1F,False,35.706599,139.7624227
+66,Tori Chataro,https://tabelog.com/en/tokyo/A1303/A130301/13157208/,4.3,10000-14999,636,Shibuya Sta.,Yakitori (Grilled chicken skewers),東京都渋谷区鶯谷町7-12 TAKビル 1F,True,35.6540804,139.7022691
+67,Harutaka,https://tabelog.com/en/tokyo/A1301/A130103/13032283/,4.3,60000-79999,420,Shimbashi Sta.,Sushi,東京都中央区銀座8-3-1 銀座時傳ビル 6F,False,35.6692505,139.7592458
+68,Bia,https://tabelog.com/en/tokyo/A1307/A130701/13270211/,4.3,30000-39999,353,Nogizaka Sta.,Innovative,東京都港区六本木7-3-21 来山ビル 2F,True,35.66537,139.727931
+69,Den,https://tabelog.com/en/tokyo/A1306/A130603/13046855/,4.3,30000-39999,305,Gaiemmae Sta.,Creative,東京都渋谷区神宮前2-3-18 建築家会館JIA館,False,35.6731932,139.7127606
+70,Hato,https://tabelog.com/en/tokyo/A1309/A130905/13245540/,4.3,50000-59999,300,Ushigome Kagurazaka Sta.,Sushi,東京都新宿区神楽坂5-7,True,35.7022532,139.738698
+71,ASAHINA Gastronome,https://tabelog.com/en/tokyo/A1302/A130203/13227385/,4.29,40000-49999,524,Kayabacho Sta.,French,東京都中央区日本橋兜町1-4 M-SQUAREビル 1F,False,35.6827422,139.7793861
+72,Sumiyaki Kinryusan,https://tabelog.com/en/tokyo/A1316/A131602/13001625/,4.28,15000-19999,1010,Shirokane Takanawa Sta.,Yakiniku (BBQ Beef),東京都港区白金3-14-1 第１マンション　１Ｆ,True,35.6453454,139.7283008
+73,WASA,https://tabelog.com/en/tokyo/A1303/A130302/13251804/,4.28,40000-49999,332,Ebisu Sta.,Chinese,東京都渋谷区東3-16-1 ベルザ恵比寿 1F,False,35.6497997,139.7100875
+74,Bon.nu,https://tabelog.com/en/tokyo/A1304/A130401/13184186/,4.28,50000-59999,321,Sangubashi Sta.,French,東京都渋谷区代々木4-22-17 クイーンズ代々木 1F,True,35.6812558,139.6913014
+75,Yakiniku Seiryuuen,https://tabelog.com/en/tokyo/A1313/A131303/13237978/,4.27,15000-19999,1490,Kiyosumi Shirakawa Sta.,Yakiniku (BBQ Beef),東京都江東区常盤2-14-11,True,35.6842687,139.7983122
+76,Les Saisons,https://tabelog.com/en/tokyo/A1301/A130102/13002294/,4.27,20000-29999,909,Hibiya Sta.,French,東京都千代田区内幸町1-1-1 帝国ホテル東京 本館 中2F,False,35.672454,139.7579015
+77,Sushi Shunji,https://tabelog.com/en/tokyo/A1307/A130701/13282687/,4.27,50000-59999,154,Azabu Juban Sta.,Sushi,東京都港区元麻布3-6-34 カーム元麻布 1F,True,35.6570579,139.7287062
+78,Sushi Dokoro Yamato,https://tabelog.com/en/tokyo/A1313/A131301/13262384/,4.26,20000-29999,485,Tsukiji Sta.,Sushi,東京都中央区築地3-7-2 第五銀座ウェスト築地ビル 1F,True,35.6679031,139.7737344
+79,Tempura Asanuma,https://tabelog.com/en/tokyo/A1302/A130202/13275655/,4.26,15000-19999,371,Nihombashi Sta.,Tempura,東京都中央区日本橋2-10-11 ordin日本橋ビル 6F,False,35.6809812,139.7746068
+80,Miyasaka,https://tabelog.com/en/tokyo/A1306/A130602/13264981/,4.26,40000-49999,128,Omote Sando Sta.,Japanese Cuisine,東京都港区南青山5-4-30 ヴィラソレイユE号,False,35.6624602,139.7143561
+81,Shimbashi Shimizu,https://tabelog.com/en/tokyo/A1301/A130103/13002892/,4.25,20000-29999,687,Shimbashi Sta.,Sushi,東京都港区新橋2-15-10,False,35.6663414,139.7566148
+82,Sushi Shunsuke Asagaya,https://tabelog.com/en/tokyo/A1319/A131905/13127515/,4.25,20000-29999,594,Asagaya Sta.,Sushi,東京都杉並区阿佐谷南3-44-4 B1F,False,35.7045006,139.6339252
+83,Ajiman,https://tabelog.com/en/tokyo/A1307/A130701/13001332/,4.25,80000-99999,298,Roppongi Sta.,Fugu (Pufferfish),東京都港区六本木3-8-8 ＷＯＯビル　１Ｆ,True,35.663284,139.7345874
+84,Kurosaki,https://tabelog.com/en/tokyo/A1306/A130602/13268824/,4.25,60000-79999,256,Omote Sando Sta.,Sushi,東京都港区南青山4-16-15 FPG links MINAMIAOYAMA B2F,True,35.6660014,139.7167799
+85,YORONIKU TOKYO AZABUDAIHILLS,https://tabelog.com/en/tokyo/A1307/A130701/13291424/,4.25,15000-19999,177,Roppongi Itchome Sta.,Yakiniku (BBQ Beef),東京都港区麻布台1-3-1 麻布台ヒルズ タワープラザ 3F,False,35.6609166,139.7405604
+86,LATURE,https://tabelog.com/en/tokyo/A1303/A130301/13198692/,4.24,10000-14999,2437,Omote Sando Sta.,French,東京都渋谷区渋谷2-2-2 青山ルカビル B1F,False,35.6607645,139.7085533
+87,Stamina En,https://tabelog.com/en/tokyo/A1323/A132305/13003777/,4.24,6000-7999,2363,Nishiaraidaishi Nishi Sta.,Yakiniku (BBQ Beef),東京都足立区鹿浜3-13-4,False,35.7799029,139.7523707
+88,Chinese Hanten Fureika,https://tabelog.com/en/tokyo/A1307/A130702/13004967/,4.24,15000-19999,2282,Azabu Juban Sta.,Chinese,東京都港区東麻布3-7-5,False,35.6562703,139.7385296
+89,Tonkatsu Narikura,https://tabelog.com/en/tokyo/A1319/A131905/13236380/,4.24,6000-7999,1713,Minami Asagaya Sta.,Tonkatsu (Pork cutlet),東京都杉並区成田東4-33-9,True,35.6978032,139.6387833
+90,Sushi Sho Saito,https://tabelog.com/en/tokyo/A1308/A130801/13023988/,4.24,60000-79999,455,Akasaka Mitsuke Sta.,Sushi,東京都港区赤坂4-2-2 赤坂DNプラザビル 2F,False,35.6761426,139.7356764
+91,ShinoiS,https://tabelog.com/en/tokyo/A1316/A131602/13241948/,4.24,50000-59999,335,Shirokanedai Sta.,Chinese,東京都港区白金台4-2-7 bld桜なみき 2F,False,35.6393592,139.7281112
+92,Tsunokamizaka Koshiba,https://tabelog.com/en/tokyo/A1309/A130903/13200286/,4.24,20000-29999,211,Akebonobashi Sta.,Japanese Cuisine,東京都新宿区荒木町15 サンシャトー四谷203,True,35.6910245,139.7246904
+93,Unagi Uomasa,https://tabelog.com/en/tokyo/A1324/A132403/13035339/,4.23,10000-14999,1026,Yotsugi Sta.,Unagi (Eel),東京都葛飾区東四ツ木4-14-4,True,35.7387478,139.8333638
+94,Restaurant Ryuzu,https://tabelog.com/en/tokyo/A1307/A130701/13122126/,4.23,20000-29999,839,Roppongi Sta.,French,東京都港区六本木4-2-35 VORT六本木Dual's B1F (旧 URABAN STYLE ROPPONGI MIKAWADAI),False,35.6647207,139.7335553
+95,Shutei Tanaka,https://tabelog.com/en/tokyo/A1312/A131203/13285811/,4.23,10000-14999,295,Kanegafuchi Sta.,Yakitori (Grilled chicken skewers),東京都墨田区墨田3-25-7,True,35.730703,139.8194926
+96,Sushi Mizukami,https://tabelog.com/en/tokyo/A1308/A130803/13220742/,4.23,40000-49999,277,Hanzomon Sta.,Sushi,東京都千代田区一番町3-8 大宮ビル 1F,False,35.6877165,139.7433184
+97,GINZA JOTAKI,https://tabelog.com/en/tokyo/A1301/A130101/13267801/,4.23,50000-59999,65,Ginza Sta.,Chinese,東京都中央区銀座7-5-15 AG1ビル 3F,True,35.6697935,139.7610478
+98,HATSUNEZUSHI,https://tabelog.com/en/tokyo/A1315/A131503/13017742/,4.22,8000-9999,841,Kamata Sta.,Sushi,東京都大田区西蒲田5-20-2,True,35.5655425,139.7145757
+99,ZURRIOLA,https://tabelog.com/en/tokyo/A1301/A130101/13125046/,4.22,30000-39999,642,Ginza Sta.,Spain,東京都中央区銀座6-8-7 交詢ビル　4Ｆ,False,35.6702693,139.7626704
+100,sincere,https://tabelog.com/en/tokyo/A1309/A130901/13194253/,4.22,20000-29999,567,Kita Sando Sta.,French,東京都渋谷区千駄ヶ谷3-7-13 原宿東急アパートメントＢ１,True,35.6769032,139.7043254
+101,Niku Kappou Jou,https://tabelog.com/en/tokyo/A1307/A130701/13209614/,4.22,20000-29999,562,Nogizaka Sta.,Beef dishes,東京都港区西麻布2-24-14 バルビゾン73 B1F,False,35.6601523,139.7224744
+102,malca,https://tabelog.com/en/tokyo/A1306/A130603/13277748/,4.22,20000-29999,349,Gaiemmae Sta.,Italian,東京都港区南青山2-27-16 篠塚ビル B1F,False,35.66858819999999,139.7169946
+103,Ikewanagi no Mise Tsugumi An,https://tabelog.com/en/tokyo/A1323/A132301/13080463/,4.22,15000-19999,205,Komagome Sta.,Unagi (Eel),東京都北区中里1-29-1,True,35.7379077,139.7527579
+104,PRISMA,https://tabelog.com/en/tokyo/A1306/A130602/13123890/,4.22,40000-49999,198,Omote Sando Sta.,Italian,東京都港区南青山6-4-6 青山ＡＬＬＥＹ 1F,False,35.6615191,139.7164092
+105,Sushi Meino,https://tabelog.com/en/tokyo/A1307/A130702/13292357/,4.22,50000-59999,87,Azabu Juban Sta.,Sushi,東京都港区麻布十番1-6-1 THE V-CITY 麻布十番 PLACE 6F,True,35.6566963,139.7343454
+106,Yoroniku,https://tabelog.com/en/tokyo/A1306/A130602/13042979/,4.21,10000-14999,2671,Omote Sando Sta.,Yakiniku (BBQ Beef),東京都港区南青山6-6-22 ルナロッサ　Ｂ１Ｆ,False,35.6602545,139.7177949
+107,Mikawa Zezankyo,https://tabelog.com/en/tokyo/A1313/A131303/13090866/,4.21,20000-29999,735,Monzen Nakacho Sta.,Tempura,東京都江東区福住1-3-1,True,35.6755048,139.7930987
+108,Koho,https://tabelog.com/en/tokyo/A1307/A130701/13194122/,4.21,30000-39999,691,Roppongi Sta.,Chinese,東京都港区六本木3-8-7 PALビル 1F,True,35.6631657,139.7345428
+109,Haramasa,https://tabelog.com/en/tokyo/A1309/A130903/13151542/,4.21,20000-29999,647,Yotsuya Sanchome Sta.,Japanese Cuisine,東京都新宿区四谷4-8 ライオンズ四谷タワーゲート店舗棟 B1F,False,35.6880701,139.7166065
+110,Kitajima Tei,https://tabelog.com/en/tokyo/A1309/A130902/13000945/,4.21,20000-29999,559,Yotsuya Sta.,French,東京都新宿区四谷三栄町15-2 ＪＨＣビル 1F,False,35.6885631,139.7270337
+111,Sushi Ikkou,https://tabelog.com/en/tokyo/A1301/A130101/13300481/,4.21,60000-79999,85,Higashi Ginza Sta.,Sushi,東京都中央区銀座5-11-12 日総第26ビル 3F,True,35.6694982,139.7654875
+112,Kawamura,https://tabelog.com/en/tokyo/A1301/A130101/13016506/,4.2,100000-,201,,Steak,東京都中央区,True,35.6706392,139.7719892
+113,subin,https://tabelog.com/en/tokyo/A1301/A130101/13287203/,4.2,40000-49999,88,Ginza Sta.,Shabu shabu (Japanese hotpot),東京都中央区銀座8-6-20 銀座八番館 B1F,False,35.6686564,139.7605628
+114,Nabeno-Ism,https://tabelog.com/en/tokyo/A1311/A131102/13194700/,4.19,40000-49999,648,Asakusa Sta.,French,東京都台東区駒形2-1-17,True,35.7067673,139.7953869
+115,Sushi Kimura,https://tabelog.com/en/tokyo/A1317/A131708/13026584/,4.19,30000-39999,480,Futako Tamagawa Sta.,Sushi,東京都世田谷区玉川3-21-8,True,35.6161111,139.6243322
+116,Kurogi,https://tabelog.com/en/tokyo/A1314/A131401/13094789/,4.19,50000-59999,416,Daimon Sta.,Japanese Cuisine,東京都港区芝公園1-7-10,True,35.6574137,139.7526412
+117,Higuchi,https://tabelog.com/en/tokyo/A1306/A130601/13001215/,4.19,40000-49999,189,Kita Sando Sta.,Japanese Cuisine,東京都渋谷区神宮前2-19-12,False,35.673458,139.7101767
+118,Aji Yuki,https://tabelog.com/en/tokyo/A1313/A131301/13277529/,4.18,30000-39999,72,Shintomicho Sta.,Japanese Cuisine,東京都中央区湊3-4-2 Vann Amor 1F,True,35.6698099,139.77769
+119,Ren Mishina,https://tabelog.com/en/tokyo/A1301/A130101/13221959/,4.17,30000-39999,205,Uchisaiwaicho Sta.,Japanese Cuisine,東京都中央区銀座7-3-13 ニューギンザビル B1F,False,35.670056,139.7602259
+120,Kaoru HIROO,https://tabelog.com/en/tokyo/A1307/A130703/13238442/,4.17,50000-59999,203,Hiro o Sta.,Innovative,東京都港区南麻布4-5-66 2F,True,35.6511293,139.7237414
+121,Sushi Takamitsu,https://tabelog.com/en/tokyo/A1313/A131302/13280325/,4.17,80000-99999,57,Kachidoki Sta.,Houseboat and cruising,東京都中央区晴海3-1 晴海乗船場,True,35.6561242,139.7772135
+122,L'ecrin,https://tabelog.com/en/tokyo/A1301/A130101/13002444/,4.16,20000-29999,932,Ginza Sta.,French,東京都中央区銀座4-5-5 ミキモトビル Ｂ１Ｆ,False,35.6718956,139.7653829
+123,Suzuta Shiki,https://tabelog.com/en/tokyo/A1307/A130701/13293100/,4.16,60000-79999,252,Nogizaka Sta.,Japanese Cuisine,東京都港区西麻布1-9-5 2F,False,35.6611846,139.7253052
+124,Takajo Kotobuki,https://tabelog.com/en/tokyo/A1311/A131102/13003661/,4.16,30000-39999,180,Asakusa Sta.,Chicken dishes,東京都台東区雷門2-14-6,False,35.7104438,139.7950559
+125,sushi riku,https://tabelog.com/en/tokyo/A1307/A130703/13301089/,4.16,40000-49999,117,Hiro o Sta.,Sushi,東京都渋谷区広尾5-13-6 ARISTO広尾ビル 1F,True,35.6498903,139.7212573
+126,Ryugin,https://tabelog.com/en/tokyo/A1301/A130102/13001457/,4.15,50000-59999,286,Hibiya Sta.,Japanese Cuisine,東京都千代田区有楽町1-1-2 ミッドタウン日比谷 7F,True,35.6739622,139.7596299
+127,Tsushima,https://tabelog.com/en/tokyo/A1307/A130701/13245835/,4.15,60000-79999,255,Roppongi Sta.,Chinese,東京都港区元麻布3-2-3 けやき坂 NEST 1F,True,35.657563,139.7276683
+128,Kohaku,https://tabelog.com/en/tokyo/A1309/A130905/13296900/,4.15,60000-79999,117,Iidabashi Sta.,Japanese Cuisine,東京都新宿区神楽坂3-5-5,True,35.7008106,139.7408453
+129,Takumi Shingo,https://tabelog.com/en/tokyo/A1306/A130603/13155925/,4.14,30000-39999,306,Aoyama Itchome Sta.,Sushi,東京都港区南青山2-2-15 ウィン青山 1F,True,35.6715979,139.7238344
+130,Sushi Hashiguchi,https://tabelog.com/en/tokyo/A1308/A130801/13134517/,4.14,50000-59999,249,Akasaka Mitsuke Sta.,Sushi,東京都港区元赤坂1-5-20 ロイヤル赤坂サルーン1F,False,35.6775332,139.7324515
+131,Sushi Yoshitake,https://tabelog.com/en/tokyo/A1301/A130101/13024076/,4.14,60000-79999,227,Shimbashi Sta.,Sushi,東京都中央区銀座7-8-13 Brown Place 9F,False,35.6689218,139.7619535
+132,Isoda,https://tabelog.com/en/tokyo/A1302/A130204/13303109/,4.14,40000-49999,104,Ningyocho Sta.,Japanese Cuisine,東京都中央区日本橋人形町1-5-10 日本橋芸者新道ビル 3F,True,35.6852265,139.7820724
+133,Restaurant Raffinage,https://tabelog.com/en/tokyo/A1301/A130101/13227264/,4.13,30000-39999,282,Higashi Ginza Sta.,French,東京都中央区銀座5-9-16 GINZA-A-5 2F,False,35.6701935,139.7650003
+134,Restaurant La FinS,https://tabelog.com/en/tokyo/A1301/A130103/13139171/,4.13,60000-79999,239,Shimbashi Sta.,French,東京都港区新橋4-9-1 新橋プラザビル B1F,True,35.6642596,139.756543
+135,Kiyota Hanare,https://tabelog.com/en/tokyo/A1301/A130101/13256392/,4.13,100000-,41,Ginza Sta.,Sushi,東京都中央区銀座5-5-18 銀座藤小西 9F,True,35.6716281,139.7637047
+136,Hommage,https://tabelog.com/en/tokyo/A1311/A131102/13008700/,4.12,20000-29999,708,Asakusa Sta.,French,東京都台東区浅草4-10-5,False,35.7184014,139.7970136
+137,EdiTion Koji Shimomura,https://tabelog.com/en/tokyo/A1307/A130701/13042074/,4.11,20000-29999,657,Roppongi Itchome Sta.,French,東京都港区六本木3-1-1 六本木ティーキューブ1F,False,35.6655427,139.7382225
+138,Akasaka Kitafuku,https://tabelog.com/en/tokyo/A1308/A130801/13149065/,4.11,40000-49999,371,Akasaka Sta.,Crab,東京都港区赤坂3-13-6 国際天野ビル 7F,False,35.6730582,139.7377192
+139,Eiki,https://tabelog.com/en/tokyo/A1303/A130302/13230923/,4.11,10000-14999,353,Ebisu Sta.,Yakitori (Grilled chicken skewers),東京都渋谷区恵比寿2-10-5 ROZIS 1F,False,35.6456743,139.7168163
+140,Akasaka Eigetsu,https://tabelog.com/en/tokyo/A1308/A130801/13116523/,4.11,20000-29999,342,Akasaka Mitsuke Sta.,Japanese Cuisine,東京都港区赤坂3-11-7 ソシアル赤坂ビル 4F,False,35.6745648,139.7375604
+141,Sushi Saeki,https://tabelog.com/en/tokyo/A1301/A130101/13239506/,4.11,40000-49999,224,Ginza Sta.,Sushi,東京都中央区銀座6-3-18 La.La.Grande GINZA 2F,False,35.6717919,139.7612388
+142,Hongshiki Ryori Koki,https://tabelog.com/en/tokyo/A1308/A130802/13274319/,4.11,20000-29999,119,Toranomon Hills Sta.,Chinese,東京都港区西新橋2-13-6 ミタニビル 1F,True,35.6667277,139.7515822
+143,Minami Aoyama Nana Chome,https://tabelog.com/en/tokyo/A1307/A130703/13200559/,4.1,8000-9999,422,Hiro o Sta.,Yakitori (Grilled chicken skewers),東京都港区南青山7-13-13 フォレストビル B1F,True,35.6571045,139.718034
+144,shokudou aca,https://tabelog.com/en/tokyo/A1307/A130704/13296958/,4.1,20000-29999,172,Kamiyacho Sta.,Spain,東京都港区虎ノ門5-8-1 麻布台ヒルズ ガーデンプラザA 2F,True,35.6624927,139.743728
+145,Sumibi Yaki Yuji,https://tabelog.com/en/tokyo/A1303/A130301/13001794/,4.09,6000-7999,2007,Shibuya Sta.,Horumon (BBQ Offel),東京都渋谷区宇田川町11-1 松沼ビル　１Ｆ,False,35.6626422,139.6972857
+146,Japanese cuisine Kutan,https://tabelog.com/en/tokyo/A1313/A131301/13220750/,4.09,40000-49999,225,Shintomicho Sta.,Japanese Cuisine,東京都中央区新富2-5-5 新富MSビル 1F,True,35.6715885,139.7740274
+147,Kappo Muroi,https://tabelog.com/en/tokyo/A1307/A130701/13286652/,4.09,50000-59999,96,Nogizaka Sta.,Japanese Cuisine,東京都港区西麻布2-16-4 第二吉山ビル 1F,False,35.6617031,139.7207984
+148,SATO Brian Hon Ten,https://tabelog.com/en/tokyo/A1319/A131905/13127046/,4.08,15000-19999,1004,Asagaya Sta.,Yakiniku (BBQ Beef),東京都杉並区阿佐谷南3-44-2 新井ビル　1F,True,35.70462,139.6343204
+149,Tokyo Niku Shabuya,https://tabelog.com/en/tokyo/A1304/A130401/13196268/,4.08,30000-39999,575,Higashi Shinjuku Sta.,Shabu shabu (Japanese hotpot),東京都新宿区大久保1-12-3 カーサ第二新宿 1F,False,35.6985348,139.7034628
+150,AZUR et MASA UEKI,https://tabelog.com/en/tokyo/A1307/A130701/13206559/,4.08,20000-29999,542,Nogizaka Sta.,French,東京都港区西麻布2-24-7 西麻布MAビル 1F,False,35.6610177,139.721816
+151,Sanlucar BAR,https://tabelog.com/en/tokyo/A1309/A130905/13112228/,4.08,4000-4999,402,Kagurazaka Sta.,Bar,東京都新宿区神楽坂6-43 K's Place102,False,35.7036291,139.7353152
+152,Ichikawa,https://tabelog.com/en/tokyo/A1316/A131602/13210722/,4.08,40000-49999,261,Shirokane Takanawa Sta.,Sushi,東京都港区南麻布2-10-13 OJハウス 101,True,35.6479882,139.7359092
+153,unis,https://tabelog.com/en/tokyo/A1308/A130802/13253159/,4.08,50000-59999,239,Toranomon Hills Sta.,French,東京都港区虎ノ門1-23-3 虎ノ門ヒルズガーデンハウス 1F,True,35.666653,139.748574
+154,Azabu Muroi,https://tabelog.com/en/tokyo/A1301/A130101/13292026/,4.08,50000-59999,110,Ginza Sta.,Japanese Cuisine,東京都中央区銀座5-5-12 HULIC&New GINZA MIYUKI 5 10F,True,35.6710873,139.7631833
+155,Ginza Kani Matsu,https://tabelog.com/en/tokyo/A1301/A130103/13278339/,4.08,50000-59999,72,Shimbashi Sta.,Crab,東京都中央区銀座8-10-17 銀座サザンビル 8F,True,35.6681009,139.7625482
+156,Sugaya,https://tabelog.com/en/tokyo/A1314/A131401/13228776/,4.07,60000-79999,495,Akabanebashi Sta.,Sushi,東京都港区東麻布1-29-15 東麻布296ビル 1F,True,35.6552757,139.7424808
+157,commedia,https://tabelog.com/en/tokyo/A1313/A131303/13276923/,4.07,30000-39999,112,Kiba Sta.,Italian,東京都江東区東陽1-11-3 桜マンション 1F,True,35.6684257,139.8102337
+158,Kashiwade no Tsukasa Suikouan,https://tabelog.com/en/tokyo/A1307/A130702/13286120/,4.07,40000-49999,78,Akabanebashi Sta.,Japanese Cuisine,東京都港区東麻布2-14-8 フィル•パーク東麻布 1F,True,35.6570615,139.7405577
+159,L'atelier de Plaisir,https://tabelog.com/en/tokyo/A1318/A131814/13050412/,4.06,-999,1146,Soshigaya Okura Sta.,Bread,東京都世田谷区砧8-13-8 ジベ成城　１Ｆ,False,35.6416003,139.6057903
+160,La Blanche,https://tabelog.com/en/tokyo/A1303/A130301/13002111/,4.06,20000-29999,520,Omote Sando Sta.,French,東京都渋谷区渋谷2-3-1 青山ポニーハイム　２Ｆ,False,35.6599442,139.7088359
+161,4000 Chinese Restaurant,https://tabelog.com/en/tokyo/A1307/A130703/13229559/,4.06,30000-39999,379,Hiro o Sta.,Sichuan Cuisine,東京都港区南青山7-10-10 パークアクシス南青山7丁目 1F,True,35.6588855,139.7188033
+162,MAZ,https://tabelog.com/en/tokyo/A1308/A130803/13270953/,4.06,40000-49999,207,Nagatacho Sta.,Innovative,東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 3F,True,35.6799926,139.7379363
+163,Kanjou,https://tabelog.com/en/tokyo/A1307/A130701/13267945/,4.06,30000-39999,184,Roppongi Sta.,Japanese Cuisine,東京都港区六本木4-12-5 六本木144ビル 3F,True,35.6644785,139.7316233
+164,SATO BRIAN Osaka Umeda Ten,https://tabelog.com/en/tokyo/A1319/A131905/13159782/,4.05,15000-19999,999,Asagaya Sta.,Yakiniku (BBQ Beef),東京都杉並区阿佐ヶ谷南2-17-2,False,35.705267,139.6359043
+165,Sumibi Yakiniku Nakahara,https://tabelog.com/en/tokyo/A1309/A130904/13175110/,4.05,30000-39999,712,Ichigaya Sta.,Yakiniku (BBQ Beef),東京都千代田区六番町4-3 GEMS市ヶ谷 9F,False,35.6891599,139.7352518
+166,Japanese cuisine Tagetsu,https://tabelog.com/en/tokyo/A1306/A130602/13160021/,4.05,40000-49999,560,Omote Sando Sta.,Japanese Cuisine,東京都港区北青山3-13-1 北青山関根ビル B1F,True,35.6640889,139.7094477
+167,Aji Hiro,https://tabelog.com/en/tokyo/A1313/A131301/13293039/,4.05,30000-39999,67,Shintomicho Sta.,Japanese Cuisine,東京都中央区入船3-8-9 ドミシールカワイ 1F,True,35.6705639,139.7771191
+168,Ara Ki,https://tabelog.com/en/tokyo/A1308/A130801/13296725/,4.05,60000-79999,59,Akasaka Sta.,Sushi,東京都港区赤坂6-3-16 赤坂ストリートビルディング 2F,True,35.6710888,139.7354193
+169,Hakuun,https://tabelog.com/en/tokyo/A1306/A130603/13255456/,4.04,30000-39999,179,Gaiemmae Sta.,Japanese Cuisine,東京都港区南青山4-11-2 南青山Kビル 1F,False,35.6660359,139.7181042
+170,Tomato,https://tabelog.com/en/tokyo/A1319/A131906/13001113/,4.03,2000-2999,2513,Ogikubo Sta.,Curry,東京都杉並区荻窪5-20-7 吉田ビル　１Ｆ,False,35.7025554,139.6196993
+171,AIGRE DOUCE,https://tabelog.com/en/tokyo/A1305/A130502/13005641/,4.03,1000-1999,2119,Mejiro Sta.,Cake,東京都新宿区下落合3-22-13,False,35.7224723,139.7006505
+172,Yakitori Omino,https://tabelog.com/en/tokyo/A1312/A131203/13206654/,4.03,10000-14999,1388,Oshiage Sta.,Yakitori (Grilled chicken skewers),東京都墨田区押上1-38-4 清流ビル１Ｆ,False,35.7098647,139.8158909
+173,Tempura Fukamachi,https://tabelog.com/en/tokyo/A1302/A130202/13004105/,4.03,20000-29999,930,Kyobashi Sta.,Tempura,東京都中央区京橋2-5-2 A・M京橋ビル 1F,False,35.6764566,139.7704595
+174,Tomidokoro,https://tabelog.com/en/tokyo/A1314/A131401/13223846/,4.03,30000-39999,560,Onarimon Sta.,Sushi,東京都港区新橋6-13-3 1F,False,35.6619119,139.7540636
+175,Sushi Matsuura,https://tabelog.com/en/tokyo/A1316/A131602/13239788/,4.03,30000-39999,238,Shirokane Takanawa Sta.,Sushi,東京都港区白金5-7-8 ウイング綱島 1F,True,35.6444824,139.7276922
+176,Jigen Do,https://tabelog.com/en/tokyo/A1308/A130801/13292021/,4.03,50000-59999,222,Akasaka Mitsuke Sta.,Japanese Cuisine,東京都港区赤坂3-9-2 No.R赤坂見附 1F,True,35.6772902,139.7362154
+177,Sushi Nishizaki,https://tabelog.com/en/tokyo/A1318/A131811/13270984/,4.03,20000-29999,207,Higashi Kitazawa Sta.,Sushi,東京都世田谷区北沢5-3-12 B1F,True,35.6689079,139.671468
+178,En Sui,https://tabelog.com/en/tokyo/A1317/A131701/13254619/,4.03,30000-39999,192,Naka Meguro Sta.,Japanese Cuisine,東京都目黒区中目黒1-5-12 ATRIO 1F,False,35.6441889,139.7023379
+179,Tomura,https://tabelog.com/en/tokyo/A1308/A130802/13005027/,4.03,50000-59999,181,Toranomon Sta.,Japanese Cuisine,東京都港区虎ノ門1-11-14 第二ジェスペールビル　１Ｆ,False,35.66895530000001,139.7501934
+180,Sushi Masuda,https://tabelog.com/en/tokyo/A1306/A130602/13268503/,4.03,40000-49999,162,Omote Sando Sta.,Sushi,東京都港区南青山3-14-27 IJK南青山れい 1F,True,35.6655992,139.7146293
+181,Tori Shige,https://tabelog.com/en/tokyo/A1304/A130401/13001067/,4.02,8000-9999,2601,Shinjuku Sta.,Grilled tripe,東京都渋谷区代々木2-6-5,False,35.68795360000001,139.698908
+182,Tamawarai,https://tabelog.com/en/tokyo/A1306/A130601/13129390/,4.02,10000-14999,1703,Meiji Jingumae Sta.,Soba (Buckwheat noodles),東京都渋谷区神宮前5-23-3,False,35.6644778,139.7046895
+183,Ramen FeeL,https://tabelog.com/en/tokyo/A1330/A133003/13254631/,4.02,-,1172,Hinatawada Sta.,Ramen,東京都青梅市梅郷4-695-1,False,35.788712,139.2217761
+184,Tempura Kondo,https://tabelog.com/en/tokyo/A1301/A130101/13004993/,4.02,20000-29999,1006,Ginza Sta.,Tempura,東京都中央区銀座5-5-13 坂口ビル　9Ｆ,False,35.6712111,139.7634809
+185,USHIGORO S. GINZA,https://tabelog.com/en/tokyo/A1301/A130101/13222093/,4.02,20000-29999,811,Ginza Sta.,Yakiniku (BBQ Beef),東京都中央区銀座7-7-7 GINZA777 ADC BUILDING 6F,False,35.6692404,139.7619253
+186,Ranmaru,https://tabelog.com/en/tokyo/A1317/A131710/13217903/,4.02,30000-39999,595,Fudo Mae Sta.,Sushi,東京都目黒区下目黒3-16-2 1F,False,35.6270637,139.7086689
+187,Akasaka Kikunoi,https://tabelog.com/en/tokyo/A1308/A130801/13002514/,4.02,20000-29999,508,Akasaka Sta.,Japanese Cuisine,東京都港区赤坂6-13-8,False,35.6699391,139.7340557
+188,Torisho Ishii Hina,https://tabelog.com/en/tokyo/A1307/A130702/13271040/,4.02,15000-19999,489,Azabu Juban Sta.,Yakitori (Grilled chicken skewers),東京都港区南麻布1-27-7 クリフサイドビル 1F,True,35.6499925,139.7331743
+189,recte,https://tabelog.com/en/tokyo/A1303/A130303/13036041/,4.02,30000-39999,466,Daikan yama Sta.,French,東京都渋谷区恵比寿西2-17-5 サンビレッジ代官山 2F,True,35.6489302,139.7059561
+190,Le Mange-Tout,https://tabelog.com/en/tokyo/A1309/A130905/13000469/,4.02,30000-39999,312,Ushigome Kagurazaka Sta.,French,東京都新宿区納戸町22,False,35.6981502,139.7325667
+191,Toriryori Torishou,https://tabelog.com/en/tokyo/A1309/A130903/13193026/,4.02,15000-19999,88,Akebonobashi Sta.,Chicken dishes,東京都新宿区荒木町16-16 ベルウッドビル B1F,True,35.6916821,139.7242203
+192,a tes souhaits!,https://tabelog.com/en/tokyo/A1320/A132001/13005853/,4.01,-999,2431,Nishi Ogikubo Sta.,Cake,東京都武蔵野市吉祥寺東町3-8-8 カサ吉祥寺２,False,35.708977,139.5907094
+193,Ginza Sushi Kanesaka Hon Ten,https://tabelog.com/en/tokyo/A1301/A130103/13005003/,4.01,60000-79999,530,Shimbashi Sta.,Sushi,東京都中央区銀座8-10-3 三鈴ビル　Ｂ１Ｆ,False,35.6679846,139.7626384
+194,Tokyo En,https://tabelog.com/en/tokyo/A1301/A130101/13002566/,4.01,8000-9999,369,Higashi Ginza Sta.,Yakiniku (BBQ Beef),東京都中央区銀座5-9-5,True,35.6703772,139.7655179
+195,Kiyota,https://tabelog.com/en/tokyo/A1301/A130101/13070238/,4.01,50000-59999,290,Ginza Sta.,Sushi,東京都中央区銀座6-3-15,False,35.6714621,139.7608853
+196,Ginza Kitafuku,https://tabelog.com/en/tokyo/A1301/A130101/13183900/,4.01,40000-49999,265,Ginza Sta.,Crab,東京都中央区銀座7-4-5 銀座745ビル 3F,True,35.6701249,139.7611427
+197,Onarimon Haru,https://tabelog.com/en/tokyo/A1314/A131401/13233057/,4.01,40000-49999,206,Onarimon Sta.,Japanese Cuisine,東京都港区芝大門1-2-2 中川ビル 1F,True,35.6601761,139.7545584
+198,Mori Fuji,https://tabelog.com/en/tokyo/A1309/A130905/13240181/,4.01,30000-39999,121,Ushigome Kagurazaka Sta.,Japanese Cuisine,東京都新宿区納戸町32-3 ザ・フィガロ市ヶ谷 1F,True,35.6977182,139.7338071
+199,tens.,https://tabelog.com/en/tokyo/A1306/A130603/13301005/,4.01,20000-29999,78,Gaiemmae Sta.,Italian,東京都港区南青山2-27-28 グラン青山 B1F,False,35.6697281,139.7168511
+200,Raa Menya Shima,https://tabelog.com/en/tokyo/A1304/A130401/13247487/,4.0,-,1769,Nishi Shinjuku Gochome Sta.,Ramen,東京都渋谷区本町3-41-12,True,35.6883038,139.6809081
